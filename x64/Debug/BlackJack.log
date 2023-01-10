@@ -1,0 +1,8 @@
+﻿  BlackJack.cpp
+C:\Users\bogda\Desktop\Bj\BlackJack\src\BlackJack.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bogda\Desktop\Bj\BlackJack\src\BlackJack.cpp(57,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\bogda\Desktop\Bj\BlackJack\src\BlackJack.cpp(130,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bogda\Desktop\Bj\BlackJack\src\BlackJack.cpp(139,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  BlackJack.vcxproj -> C:\Users\bogda\Desktop\Bj\BlackJack\x64\Debug\BlackJack.exe
